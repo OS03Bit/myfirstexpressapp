@@ -1,0 +1,12 @@
+###
+GET http://localhost:8000
+
+###
+
+POST http://localhost:8000/amn
+Content-Type: application/json
+
+{
+    "name": "hiamasadanoianas",
+    "data": "sadsada asda"
+}
